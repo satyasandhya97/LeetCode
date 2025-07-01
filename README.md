@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/satyasandhya97/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/satyasandhya97/LeetCode/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/satyasandhya97/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
