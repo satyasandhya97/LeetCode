@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/satyasandhya97/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/satyasandhya97/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/satyasandhya97/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/satyasandhya97/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/satyasandhya97/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/satyasandhya97/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/satyasandhya97/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/satyasandhya97/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyasandhya97/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/satyasandhya97/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satyasandhya97/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/satyasandhya97/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Dynamic Programming
@@ -51,4 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/satyasandhya97/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/satyasandhya97/LeetCode/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/satyasandhya97/LeetCode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/satyasandhya97/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
