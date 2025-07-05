@@ -3,17 +3,9 @@
  * @return {number}
  */
 var singleNumber = function(nums) {
-    let hash = {};
-    for(let i =0; i < nums.length; i++){
-        if(!hash[nums[i]]){
-            hash[nums[i]] = 1;
-        }else {
-            hash[nums[i]]++;
-        }
+    let XOR = 0;
+    for(let i = 0; i < nums.length; i++){
+        XOR = XOR ^ nums[i];
     }
-    for(let i =0; i < nums.length; i++){
-        if(hash[nums[i]] === 1){
-            return nums[i]
-        }
-    }    
+    return XOR;
 };
