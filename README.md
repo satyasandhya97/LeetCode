@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/satyasandhya97/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/satyasandhya97/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/satyasandhya97/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/satyasandhya97/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/satyasandhya97/LeetCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/satyasandhya97/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Design
