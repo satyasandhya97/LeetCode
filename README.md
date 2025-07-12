@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/satyasandhya97/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/satyasandhya97/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/satyasandhya97/LeetCode/tree/master/0344-reverse-string) |
+| [0908-middle-of-the-linked-list](https://github.com/satyasandhya97/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/satyasandhya97/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/satyasandhya97/LeetCode/tree/master/0838-design-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/satyasandhya97/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
