@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/satyasandhya97/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/satyasandhya97/LeetCode/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/satyasandhya97/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [3194-find-words-containing-character](https://github.com/satyasandhya97/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/satyasandhya97/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/satyasandhya97/LeetCode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/satyasandhya97/LeetCode/tree/master/0948-sort-an-array) |
+| [3194-find-words-containing-character](https://github.com/satyasandhya97/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
 | ------- |
