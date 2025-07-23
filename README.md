@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/satyasandhya97/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/satyasandhya97/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3194-find-words-containing-character](https://github.com/satyasandhya97/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyasandhya97/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/satyasandhya97/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/satyasandhya97/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/satyasandhya97/LeetCode/tree/master/0782-jewels-and-stones) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyasandhya97/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/satyasandhya97/LeetCode/tree/master/0948-sort-an-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyasandhya97/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
