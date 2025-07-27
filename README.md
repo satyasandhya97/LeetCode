@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/satyasandhya97/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/satyasandhya97/LeetCode/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/satyasandhya97/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/satyasandhya97/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1894-merge-strings-alternately](https://github.com/satyasandhya97/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/satyasandhya97/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/satyasandhya97/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/satyasandhya97/LeetCode/tree/master/0948-sort-an-array) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/satyasandhya97/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyasandhya97/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/satyasandhya97/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/satyasandhya97/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
