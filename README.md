@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/satyasandhya97/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/satyasandhya97/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/satyasandhya97/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/satyasandhya97/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/satyasandhya97/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/satyasandhya97/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/satyasandhya97/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/satyasandhya97/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/satyasandhya97/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/satyasandhya97/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/satyasandhya97/LeetCode/tree/master/0948-sort-an-array) |
 ## Hash Table
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/satyasandhya97/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/satyasandhya97/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/satyasandhya97/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/satyasandhya97/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/satyasandhya97/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyasandhya97/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
