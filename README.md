@@ -153,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/satyasandhya97/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/satyasandhya97/LeetCode/tree/master/0838-design-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/satyasandhya97/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/satyasandhya97/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/satyasandhya97/LeetCode/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/satyasandhya97/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
