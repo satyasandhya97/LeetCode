@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/satyasandhya97/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/satyasandhya97/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/satyasandhya97/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1078-remove-outermost-parentheses](https://github.com/satyasandhya97/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/satyasandhya97/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1894-merge-strings-alternately](https://github.com/satyasandhya97/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/satyasandhya97/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/satyasandhya97/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/satyasandhya97/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/satyasandhya97/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/satyasandhya97/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
