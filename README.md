@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyasandhya97/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satyasandhya97/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/satyasandhya97/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/satyasandhya97/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/satyasandhya97/LeetCode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/satyasandhya97/LeetCode/tree/master/0948-sort-an-array) |
 | [3194-find-words-containing-character](https://github.com/satyasandhya97/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/satyasandhya97/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/satyasandhya97/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/satyasandhya97/LeetCode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/satyasandhya97/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/satyasandhya97/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyasandhya97/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/satyasandhya97/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/satyasandhya97/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/satyasandhya97/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/satyasandhya97/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/satyasandhya97/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/satyasandhya97/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/satyasandhya97/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/satyasandhya97/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
