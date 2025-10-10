@@ -192,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/satyasandhya97/LeetCode/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/satyasandhya97/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
