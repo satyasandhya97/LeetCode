@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyasandhya97/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/satyasandhya97/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/satyasandhya97/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/satyasandhya97/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/satyasandhya97/LeetCode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/satyasandhya97/LeetCode/tree/master/0948-sort-an-array) |
 | [3194-find-words-containing-character](https://github.com/satyasandhya97/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/satyasandhya97/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/satyasandhya97/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/satyasandhya97/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/satyasandhya97/LeetCode/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/satyasandhya97/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/satyasandhya97/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/satyasandhya97/LeetCode/tree/master/0739-daily-temperatures) |
 ## Database
 |  |
 | ------- |
